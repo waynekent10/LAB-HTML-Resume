@@ -1,0 +1,30 @@
+body {
+background-color: greenyellow
+  
+};
+h1{
+  color:white
+}
+
+.p1{
+  font-family:'Times New Roman', Times, serif
+  
+
+}
+.p2{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 200;
+
+}
+.myHeader{
+  font-style: normal;
+}
+.Job-function{
+  font-style: italic;
+}
+div{border-style:dotted solid double dashed}
+
+article {
+  border-style: dotted solid double dashed;
+  padding: 10px;
+}
